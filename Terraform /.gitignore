@@ -1,0 +1,9 @@
+#ignor terraform/provider files
+.terraform/*
+
+#ignoring the state files
+*.tfstate
+*.tfstate.*
+
+#ignoring secret files
+*.tfvars
