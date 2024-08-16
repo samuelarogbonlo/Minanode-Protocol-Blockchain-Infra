@@ -22,7 +22,7 @@ Opinionated project architecture for the Mina node following the required docume
       │
       └── README.md (you are here)
 
-# Task 1
+
 The setup for the mina node was done on AWS (could be any other provider). 
 
 ## Integral Parts Of AWS Infrastructure
